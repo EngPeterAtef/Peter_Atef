@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @EngPeterAtef
-- 👀 I’m interested in computer science , I'm passionate about creating things and also I love theater and reading so much
+- 👋 Hi, I’m PeterAtef
+- 👀 I’m a computer engineering strudent , I'm passionate about creating things and software design.
 - 🌱 I’m currently learning computer engineering at faculty of engineering cairo university
 - 💞️ I'm looking to collaborate on projects related to machine learning, embedded systems, and also full-stack projects.
 - 📫 How to reach me ...?
